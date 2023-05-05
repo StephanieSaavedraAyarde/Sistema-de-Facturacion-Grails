@@ -1,2 +1,8 @@
-# Sistema-de-Facturacion-Grails
-Proyecto Desarrollado para la materia de Sistemas de Información II, el sistema es para una empresa constructora orientado al control de ventas y generación de facturas transaccionales en formato PDF
+# Sistema de Facturacion
+Proyecto desarrollado a la gestión de una empresa constructora, el proyecto fue desarrollado con Grails y consta de los siguientes elementos:
+- Gestión de Clientes
+- Gestión de Proyectos
+- Gestión de Trabajadores
+- Gestión de Usuarios
+- Gestión transaccional
+- Generación de recibos en formato PDF
